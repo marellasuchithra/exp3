@@ -1,0 +1,2 @@
+Devops lab in experiment3
+by using fetch commands
